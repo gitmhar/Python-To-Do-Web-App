@@ -12,6 +12,11 @@ def add_todo():
     
     st.session_state["new_todo"] = ""
 
+st.set_page_config(
+    page_title="Todo Web App",
+    page_icon="./icons/icon.svg",
+    layout="centered"
+)
 
 st.title("My Todo App")
 st.subheader("This is my todo app...")
