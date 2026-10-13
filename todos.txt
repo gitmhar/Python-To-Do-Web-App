@@ -1,0 +1,5 @@
+Take a bath.
+Sleep.
+Learn Python.
+Learn AI.
+Learn Proxmox.
